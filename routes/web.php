@@ -1,7 +1,12 @@
 <?php
-
-// use App\Http\Controllers\Guest\PageController; da inserire manualmente 
-// se non viene inserito in automatico
+/*
+|--------------------------------------------------------------------------
+use App\Http\Controllers\Guest\PageController;
+|--------------------------------------------------------------------------
+|
+| da inserire manualmente se non viene inserito in automatico
+|
+*/
 use App\Http\Controllers\Guest\PageController;
 use Illuminate\Support\Facades\Route;
 
